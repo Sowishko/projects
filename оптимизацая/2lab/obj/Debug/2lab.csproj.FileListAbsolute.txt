@@ -1,0 +1,10 @@
+D:\Stud\ИВТ1-18\Гоголь\ВО\2lab\obj\Debug\2lab.csprojAssemblyReference.cache
+D:\Stud\ИВТ1-18\Гоголь\ВО\2lab\obj\Debug\_2._12.Form1.resources
+D:\Stud\ИВТ1-18\Гоголь\ВО\2lab\obj\Debug\_2lab.Properties.Resources.resources
+D:\Stud\ИВТ1-18\Гоголь\ВО\2lab\obj\Debug\2lab.csproj.GenerateResource.cache
+D:\Stud\ИВТ1-18\Гоголь\ВО\2lab\obj\Debug\2lab.csproj.CoreCompileInputs.cache
+D:\Stud\ИВТ1-18\Гоголь\ВО\2lab\bin\Debug\2lab.exe.config
+D:\Stud\ИВТ1-18\Гоголь\ВО\2lab\bin\Debug\2lab.exe
+D:\Stud\ИВТ1-18\Гоголь\ВО\2lab\bin\Debug\2lab.pdb
+D:\Stud\ИВТ1-18\Гоголь\ВО\2lab\obj\Debug\2lab.exe
+D:\Stud\ИВТ1-18\Гоголь\ВО\2lab\obj\Debug\2lab.pdb

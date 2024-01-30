@@ -1,0 +1,10 @@
+D:\Stud\ИВТ1-18\Гоголь\ВО\4lab\bin\Debug\4lab.exe.config
+D:\Stud\ИВТ1-18\Гоголь\ВО\4lab\bin\Debug\4lab.exe
+D:\Stud\ИВТ1-18\Гоголь\ВО\4lab\bin\Debug\4lab.pdb
+D:\Stud\ИВТ1-18\Гоголь\ВО\4lab\obj\Debug\4lab.csprojAssemblyReference.cache
+D:\Stud\ИВТ1-18\Гоголь\ВО\4lab\obj\Debug\_4.Form1.resources
+D:\Stud\ИВТ1-18\Гоголь\ВО\4lab\obj\Debug\_4lab.Properties.Resources.resources
+D:\Stud\ИВТ1-18\Гоголь\ВО\4lab\obj\Debug\4lab.csproj.GenerateResource.cache
+D:\Stud\ИВТ1-18\Гоголь\ВО\4lab\obj\Debug\4lab.csproj.CoreCompileInputs.cache
+D:\Stud\ИВТ1-18\Гоголь\ВО\4lab\obj\Debug\4lab.exe
+D:\Stud\ИВТ1-18\Гоголь\ВО\4lab\obj\Debug\4lab.pdb

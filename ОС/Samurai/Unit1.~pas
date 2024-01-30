@@ -1,0 +1,56 @@
+unit Unit1;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls;
+
+type
+  TForm1 = class(TForm)
+    Button1: TButton;
+    procedure Button1Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+  j:integer;
+
+implementation
+
+{$R *.dfm}
+
+procedure Work;
+begin
+j:=33;
+while j<102 do
+begin
+  case j of
+  33: j:=j*2;
+  66: j:=j+33;
+  99: j:=j+1;
+  end;
+  if j=100 then
+    break;
+  Sleep(1000);
+end;
+end;
+
+procedure TForm1.Button1Click(Sender: TObject);
+var pFunc:Pointer;
+    ThreadID: Cardinal;
+    hThread:THandle;
+begin
+  pFunc:=@Work;
+  hThread:=CreateThread(nil,0,pFunc,nil,0,ThreadID);
+
+  while j<>100 do
+    if j=100 then break;
+  MessageBox(Handle, PChar('Работа выполнена'),PChar('Успешно'), MB_ICONINFORMATION+MB_OK);
+end;
+
+end.

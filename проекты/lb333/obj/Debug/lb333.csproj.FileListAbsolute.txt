@@ -1,0 +1,9 @@
+C:\Users\SoWa\source\repos\lb333\bin\Debug\lb333.exe.config
+C:\Users\SoWa\source\repos\lb333\bin\Debug\lb333.exe
+C:\Users\SoWa\source\repos\lb333\bin\Debug\lb333.pdb
+C:\Users\SoWa\source\repos\lb333\obj\Debug\lb333.csprojAssemblyReference.cache
+C:\Users\SoWa\source\repos\lb333\obj\Debug\lb333.Form1.resources
+C:\Users\SoWa\source\repos\lb333\obj\Debug\lb333.Properties.Resources.resources
+C:\Users\SoWa\source\repos\lb333\obj\Debug\lb333.csproj.GenerateResource.cache
+C:\Users\SoWa\source\repos\lb333\obj\Debug\lb333.exe
+C:\Users\SoWa\source\repos\lb333\obj\Debug\lb333.pdb

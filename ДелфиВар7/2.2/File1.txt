@@ -1,0 +1,32 @@
+function ArrayFind(a: array of dword; value: dword): integer;
+var i: integer;
+begin
+  for i:=LOW(a) to HIGH(a) do
+    if a[i] = value then
+      Result := i;
+end;
+
+procedure TForm1.Button6Click(Sender: TObject);
+var
+  OldProtect,NewProtect: DWORD;
+  a: array[0..7] of DWORD;
+  success: boolean;
+begin
+  a[0] := PAGE_NOACCESS;
+  a[1] := PAGE_READONLY;
+  a[2] := PAGE_READWRITE;
+  a[3] := PAGE_EXECUTE;
+  a[4] := PAGE_EXECUTE_READ;
+  a[5] := PAGE_EXECUTE_READWRITE;
+  a[6] := PAGE_WRITECOPY;
+  a[7] := PAGE_EXECUTE_WRITECOPY;
+  NewProtect := a[ComboBox1.ItemIndex];
+  success := VirtualProtect(pointer(StrToInt64(Edit1.Text)),StrToInt(LabeledEdit1.Text),NewProtect,OldProtect);
+  Memo1.Clear;
+  if success then
+    Memo1.Lines.Add('Атрибут успешно изменен на: ' + ComboBox1.Items[ArrayFind(a,NewProtect)])
+  else
+    Memo1.Lines.Add('Не удалось изменить атрибут');
+  Memo1.Lines.Add('Старый артибут защиты: ' + ComboBox1.Items[ArrayFind(a,OldProtect)]);
+  //ShowMessage(ComboBox1.Items[ArrayFind(a,2)]);
+end;

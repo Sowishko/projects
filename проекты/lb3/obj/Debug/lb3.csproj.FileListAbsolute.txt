@@ -1,0 +1,4 @@
+C:\Users\SoWa\source\repos\lb3\obj\Debug\lb3.csprojAssemblyReference.cache
+C:\Users\SoWa\source\repos\lb3\obj\Debug\lb3.Form1.resources
+C:\Users\SoWa\source\repos\lb3\obj\Debug\lb3.Properties.Resources.resources
+C:\Users\SoWa\source\repos\lb3\obj\Debug\lb3.csproj.GenerateResource.cache

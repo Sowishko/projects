@@ -1,0 +1,10 @@
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Лр1.1\Лр1.1\bin\Debug\Лр1.1.exe.config
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Лр1.1\Лр1.1\bin\Debug\Лр1.1.exe
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Лр1.1\Лр1.1\bin\Debug\Лр1.1.pdb
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Лр1.1\Лр1.1\obj\Debug\Лр1._1.Form1.resources
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Лр1.1\Лр1.1\obj\Debug\Лр1._1.Properties.Resources.resources
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Лр1.1\Лр1.1\obj\Debug\Лр1.1.csproj.GenerateResource.cache
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Лр1.1\Лр1.1\obj\Debug\Лр1.1.csproj.CoreCompileInputs.cache
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Лр1.1\Лр1.1\obj\Debug\Лр1.1.exe
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Лр1.1\Лр1.1\obj\Debug\Лр1.1.pdb
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Лр1.1\Лр1.1\obj\Debug\Лр1.1.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\SoWa\source\repos\lb111\obj\Debug\lb111.csprojAssemblyReference.cache
+C:\Users\SoWa\source\repos\lb111\obj\Debug\lb111.Form1.resources
+C:\Users\SoWa\source\repos\lb111\obj\Debug\lb111.Properties.Resources.resources
+C:\Users\SoWa\source\repos\lb111\obj\Debug\lb111.csproj.GenerateResource.cache
+C:\Users\SoWa\source\repos\lb111\bin\Debug\lb111.exe.config
+C:\Users\SoWa\source\repos\lb111\bin\Debug\lb111.exe
+C:\Users\SoWa\source\repos\lb111\bin\Debug\lb111.pdb
+C:\Users\SoWa\source\repos\lb111\obj\Debug\lb111.exe
+C:\Users\SoWa\source\repos\lb111\obj\Debug\lb111.pdb
+F:\2курс-20191012T183954Z-001\2курс\С#\lb111\bin\Debug\lb111.exe.config
+F:\2курс-20191012T183954Z-001\2курс\С#\lb111\obj\Debug\lb111.exe
+F:\2курс-20191012T183954Z-001\2курс\С#\lb111\obj\Debug\lb111.pdb

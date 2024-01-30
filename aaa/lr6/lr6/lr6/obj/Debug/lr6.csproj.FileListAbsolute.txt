@@ -1,0 +1,9 @@
+C:\Users\maksi\OneDrive\Рабочий стол\Texno\lr6\lr6\bin\Debug\lr6.exe.config
+C:\Users\maksi\OneDrive\Рабочий стол\Texno\lr6\lr6\bin\Debug\lr6.exe
+C:\Users\maksi\OneDrive\Рабочий стол\Texno\lr6\lr6\bin\Debug\lr6.pdb
+C:\Users\maksi\OneDrive\Рабочий стол\Texno\lr6\lr6\obj\Debug\lr6.csprojAssemblyReference.cache
+C:\Users\maksi\OneDrive\Рабочий стол\Texno\lr6\lr6\obj\Debug\lr6.Form1.resources
+C:\Users\maksi\OneDrive\Рабочий стол\Texno\lr6\lr6\obj\Debug\lr6.Properties.Resources.resources
+C:\Users\maksi\OneDrive\Рабочий стол\Texno\lr6\lr6\obj\Debug\lr6.csproj.GenerateResource.cache
+C:\Users\maksi\OneDrive\Рабочий стол\Texno\lr6\lr6\obj\Debug\lr6.exe
+C:\Users\maksi\OneDrive\Рабочий стол\Texno\lr6\lr6\obj\Debug\lr6.pdb

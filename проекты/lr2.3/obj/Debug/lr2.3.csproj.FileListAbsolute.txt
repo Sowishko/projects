@@ -1,0 +1,9 @@
+C:\Users\SoWa\source\repos\lr2.3\bin\Debug\lr2.3.exe.config
+C:\Users\SoWa\source\repos\lr2.3\bin\Debug\lr2.3.exe
+C:\Users\SoWa\source\repos\lr2.3\bin\Debug\lr2.3.pdb
+C:\Users\SoWa\source\repos\lr2.3\obj\Debug\lr2.3.csprojAssemblyReference.cache
+C:\Users\SoWa\source\repos\lr2.3\obj\Debug\lr2._3.Form1.resources
+C:\Users\SoWa\source\repos\lr2.3\obj\Debug\lr2._3.Properties.Resources.resources
+C:\Users\SoWa\source\repos\lr2.3\obj\Debug\lr2.3.csproj.GenerateResource.cache
+C:\Users\SoWa\source\repos\lr2.3\obj\Debug\lr2.3.exe
+C:\Users\SoWa\source\repos\lr2.3\obj\Debug\lr2.3.pdb

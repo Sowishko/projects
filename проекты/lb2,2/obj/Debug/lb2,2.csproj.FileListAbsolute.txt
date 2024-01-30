@@ -1,0 +1,9 @@
+C:\Users\SoWa\source\repos\lb2,2\bin\Debug\lb2,2.exe.config
+C:\Users\SoWa\source\repos\lb2,2\bin\Debug\lb2,2.exe
+C:\Users\SoWa\source\repos\lb2,2\bin\Debug\lb2,2.pdb
+C:\Users\SoWa\source\repos\lb2,2\obj\Debug\lb2,2.csprojAssemblyReference.cache
+C:\Users\SoWa\source\repos\lb2,2\obj\Debug\lb2_2.Form1.resources
+C:\Users\SoWa\source\repos\lb2,2\obj\Debug\lb2_2.Properties.Resources.resources
+C:\Users\SoWa\source\repos\lb2,2\obj\Debug\lb2,2.csproj.GenerateResource.cache
+C:\Users\SoWa\source\repos\lb2,2\obj\Debug\lb2,2.exe
+C:\Users\SoWa\source\repos\lb2,2\obj\Debug\lb2,2.pdb

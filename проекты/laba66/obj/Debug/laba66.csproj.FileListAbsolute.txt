@@ -1,0 +1,9 @@
+C:\Users\SoWa\source\repos\laba66\bin\Debug\laba66.exe.config
+C:\Users\SoWa\source\repos\laba66\bin\Debug\laba66.exe
+C:\Users\SoWa\source\repos\laba66\bin\Debug\laba66.pdb
+C:\Users\SoWa\source\repos\laba66\obj\Debug\laba66.csprojAssemblyReference.cache
+C:\Users\SoWa\source\repos\laba66\obj\Debug\laba66.Form1.resources
+C:\Users\SoWa\source\repos\laba66\obj\Debug\laba66.Properties.Resources.resources
+C:\Users\SoWa\source\repos\laba66\obj\Debug\laba66.csproj.GenerateResource.cache
+C:\Users\SoWa\source\repos\laba66\obj\Debug\laba66.exe
+C:\Users\SoWa\source\repos\laba66\obj\Debug\laba66.pdb

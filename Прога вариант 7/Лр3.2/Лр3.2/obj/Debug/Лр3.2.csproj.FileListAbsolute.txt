@@ -1,0 +1,10 @@
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Лр3.2\Лр3.2\bin\Debug\Лр3.2.exe.config
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Лр3.2\Лр3.2\bin\Debug\Лр3.2.exe
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Лр3.2\Лр3.2\bin\Debug\Лр3.2.pdb
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Лр3.2\Лр3.2\obj\Debug\Лр3.2.csprojAssemblyReference.cache
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Лр3.2\Лр3.2\obj\Debug\Лр3._2.Form1.resources
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Лр3.2\Лр3.2\obj\Debug\Лр3._2.Properties.Resources.resources
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Лр3.2\Лр3.2\obj\Debug\Лр3.2.csproj.GenerateResource.cache
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Лр3.2\Лр3.2\obj\Debug\Лр3.2.csproj.CoreCompileInputs.cache
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Лр3.2\Лр3.2\obj\Debug\Лр3.2.exe
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Лр3.2\Лр3.2\obj\Debug\Лр3.2.pdb

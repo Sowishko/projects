@@ -1,0 +1,9 @@
+C:\Users\SoWa\source\repos\lb.2.111\bin\Debug\lb.2.111.exe.config
+C:\Users\SoWa\source\repos\lb.2.111\bin\Debug\lb.2.111.exe
+C:\Users\SoWa\source\repos\lb.2.111\bin\Debug\lb.2.111.pdb
+C:\Users\SoWa\source\repos\lb.2.111\obj\Debug\lb.2.111.csprojAssemblyReference.cache
+C:\Users\SoWa\source\repos\lb.2.111\obj\Debug\lb._2._111.Form1.resources
+C:\Users\SoWa\source\repos\lb.2.111\obj\Debug\lb._2._111.Properties.Resources.resources
+C:\Users\SoWa\source\repos\lb.2.111\obj\Debug\lb.2.111.csproj.GenerateResource.cache
+C:\Users\SoWa\source\repos\lb.2.111\obj\Debug\lb.2.111.exe
+C:\Users\SoWa\source\repos\lb.2.111\obj\Debug\lb.2.111.pdb

@@ -1,0 +1,9 @@
+C:\Users\SoWa\source\repos\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\SoWa\source\repos\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\SoWa\source\repos\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\SoWa\source\repos\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+C:\Users\SoWa\source\repos\Курсовая\obj\Debug\Курсовая.Form1.resources
+C:\Users\SoWa\source\repos\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\SoWa\source\repos\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+C:\Users\SoWa\source\repos\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\SoWa\source\repos\Курсовая\obj\Debug\Курсовая.pdb

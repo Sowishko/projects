@@ -1,0 +1,9 @@
+C:\Users\SoWa\source\repos\lb2.22\obj\Debug\lb2.22.csprojAssemblyReference.cache
+C:\Users\SoWa\source\repos\lb2.22\obj\Debug\lb2._22.Form1.resources
+C:\Users\SoWa\source\repos\lb2.22\obj\Debug\lb2._22.Properties.Resources.resources
+C:\Users\SoWa\source\repos\lb2.22\obj\Debug\lb2.22.csproj.GenerateResource.cache
+C:\Users\SoWa\source\repos\lb2.22\bin\Debug\lb2.22.exe.config
+C:\Users\SoWa\source\repos\lb2.22\bin\Debug\lb2.22.exe
+C:\Users\SoWa\source\repos\lb2.22\bin\Debug\lb2.22.pdb
+C:\Users\SoWa\source\repos\lb2.22\obj\Debug\lb2.22.exe
+C:\Users\SoWa\source\repos\lb2.22\obj\Debug\lb2.22.pdb

@@ -1,0 +1,9 @@
+C:\Users\SoWa\source\repos\qwe\bin\Debug\qwe.exe.config
+C:\Users\SoWa\source\repos\qwe\bin\Debug\qwe.exe
+C:\Users\SoWa\source\repos\qwe\bin\Debug\qwe.pdb
+C:\Users\SoWa\source\repos\qwe\obj\Debug\qwe.csprojAssemblyReference.cache
+C:\Users\SoWa\source\repos\qwe\obj\Debug\qwe.Form1.resources
+C:\Users\SoWa\source\repos\qwe\obj\Debug\qwe.Properties.Resources.resources
+C:\Users\SoWa\source\repos\qwe\obj\Debug\qwe.csproj.GenerateResource.cache
+C:\Users\SoWa\source\repos\qwe\obj\Debug\qwe.exe
+C:\Users\SoWa\source\repos\qwe\obj\Debug\qwe.pdb

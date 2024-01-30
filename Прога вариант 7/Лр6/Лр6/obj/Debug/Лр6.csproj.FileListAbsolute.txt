@@ -1,0 +1,30 @@
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Лр6\Лр6\bin\Debug\Лр6.exe.config
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Лр6\Лр6\bin\Debug\Лр6.exe
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Лр6\Лр6\bin\Debug\Лр6.pdb
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Лр6\Лр6\obj\Debug\Лр6.csprojAssemblyReference.cache
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Лр6\Лр6\obj\Debug\Лр6.Form1.resources
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Лр6\Лр6\obj\Debug\Лр6.Properties.Resources.resources
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Лр6\Лр6\obj\Debug\Лр6.csproj.GenerateResource.cache
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Лр6\Лр6\obj\Debug\Лр6.csproj.CoreCompileInputs.cache
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Лр6\Лр6\obj\Debug\Лр6.exe
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Лр6\Лр6\obj\Debug\Лр6.pdb
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Проги - примеры\Лр6\Лр6\bin\Debug\Лр6.exe.config
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Проги - примеры\Лр6\Лр6\bin\Debug\Лр6.exe
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Проги - примеры\Лр6\Лр6\bin\Debug\Лр6.pdb
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Проги - примеры\Лр6\Лр6\obj\Debug\Лр6.csprojAssemblyReference.cache
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Проги - примеры\Лр6\Лр6\obj\Debug\Лр6.Form1.resources
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Проги - примеры\Лр6\Лр6\obj\Debug\Лр6.Properties.Resources.resources
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Проги - примеры\Лр6\Лр6\obj\Debug\Лр6.csproj.GenerateResource.cache
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Проги - примеры\Лр6\Лр6\obj\Debug\Лр6.csproj.CoreCompileInputs.cache
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Проги - примеры\Лр6\Лр6\obj\Debug\Лр6.exe
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\Проги - примеры\Лр6\Лр6\obj\Debug\Лр6.pdb
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\+Лр6\Лр6\bin\Debug\Лр6.exe.config
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\+Лр6\Лр6\bin\Debug\Лр6.exe
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\+Лр6\Лр6\bin\Debug\Лр6.pdb
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\+Лр6\Лр6\obj\Debug\Лр6.csprojAssemblyReference.cache
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\+Лр6\Лр6\obj\Debug\Лр6.Form1.resources
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\+Лр6\Лр6\obj\Debug\Лр6.Properties.Resources.resources
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\+Лр6\Лр6\obj\Debug\Лр6.csproj.GenerateResource.cache
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\+Лр6\Лр6\obj\Debug\Лр6.csproj.CoreCompileInputs.cache
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\+Лр6\Лр6\obj\Debug\Лр6.exe
+C:\Users\сергей\Desktop\Лабы\Мои ЛАБЫ\3 СЕМЕСТР\Прога\+Лр6\Лр6\obj\Debug\Лр6.pdb
